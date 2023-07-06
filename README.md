@@ -5,4 +5,4 @@
 ![rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=lrochadm&show_icons=true&theme=dracula&count_private=true)
 
 Apaixonado por tecnologia e programação. <br>
-Estudante de front-end.
+Estudante de análise e desenvolvimento de sistemas - UNINASSAU.
